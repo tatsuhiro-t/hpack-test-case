@@ -1,0 +1,27 @@
+[
+  {
+    "header": {
+      ":method": "GET", 
+      "user-agent": "hpack-test", 
+      "x-hello": "world", 
+      ":authority": "example.com", 
+      "cookie": "xxxxxxx1", 
+      ":path": "/", 
+      ":scheme": "https"
+    }, 
+    "wire": "hwKIHzRo5YkS3T+GhT2HzchPKWIwjyQIeHh4eHh4eDEAhfOXMVrbhNmvXh8=", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "user-agent": "hpack-test", 
+      ":authority": "example.com", 
+      "cookie": "xxxxxxx2", 
+      ":path": "/", 
+      ":scheme": "https"
+    }, 
+    "wire": "Agh4eHh4eHh4MoKD", 
+    "context": "request"
+  }
+]

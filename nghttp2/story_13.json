@@ -1,0 +1,161 @@
+[
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      ":authority": "qq.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/", 
+      ":scheme": "http"
+    }, 
+    "wire": "gocDhfLyIlunhz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/followme.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "B4rRETEyirTIiW6fR5UNttgVojIYB5eRymOGLVrbtoJHMy8FmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/PY3OMXewA222J5eREt0Dh4mK", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/sosologo.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "SZUNttgVojIYB5eRymOEGwatuTSOZl8=", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/festival/da18search.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "SZwNttgVojIYB5eRymOGIwirmhYYINXAUPTmRzMv", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/festival/da18bodybg05.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "SZ4NttgVojIYB5eRymOGIwirmhYYINXe3D0vyLQRzMs=", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/loginall_1.2.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "SZcNttgVojIYB5eRymOC25KYha7jEORzMg==", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/aikanLoading1.1.gif", 
+      ":scheme": "http"
+    }, 
+    "wire": "SZoNttgVojIYB5eRymOCFckM+TUYKZkYhiZKxw==", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "*/*", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/joke/Koala/Qfast1.0.1.js", 
+      ":scheme": "http"
+    }, 
+    "wire": "SZIOLeQh/bULQH2xRCJiFIYnGH8CAyovKoM=", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "mat1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/www/images/qq2012/mobileNews.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "SpcNttgVojIYB5eRymOGjb1LH5jtAjmZf4OB", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      "connection": "keep-alive", 
+      "referer": "http://www.qq.com/", 
+      ":authority": "img1.gtimg.com", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":path": "/v/pics/hv1/241/117/1186/77149726.jpg", 
+      ":scheme": "http"
+    }, 
+    "wire": "BIpWmRiZRVpkRLdPS5kOYOUmAZ8zAecwGNUBjV0hVUaeyo9JOLsvhQ==", 
+    "context": "request"
+  }
+]

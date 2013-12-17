@@ -1,0 +1,32 @@
+[
+  {
+    "header": {
+      ":authority": "yahoo.co.jp", 
+      ":method": "GET", 
+      ":path": "/", 
+      ":scheme": "http"
+    }, 
+    "wire": "gocDiPRGbWkS0nF3hw==", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":authority": "www.yahoo.co.jp", 
+      ":method": "GET", 
+      ":path": "/", 
+      ":scheme": "http"
+    }, 
+    "wire": "AovbbYnojNrSJaTi74M=", 
+    "context": "request"
+  }, 
+  {
+    "header": {
+      ":authority": "k.yimg.jp", 
+      ":method": "GET", 
+      ":path": "/images/top/sp2/cmn/logo-ns-130528.png", 
+      ":scheme": "http"
+    }, 
+    "wire": "AYfkT0VpkTi7Q5kFaIyGARa4IOOCdGAtuTZWQlNMWg9ZHMy/goM=", 
+    "context": "request"
+  }
+]
